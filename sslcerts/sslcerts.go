@@ -27,5 +27,5 @@ type CreateRequest struct {
 	Name       string `json:"name"`
 	Cert       string `json:"sslCertificate"`
 	PrivateKey string `json:"sslPrivateKey"`
-	Automated  string `json:"automated"`
+	Automated  bool   `json:"automated"`
 }
