@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/G-Core/andrei-lukyanchyk/gcore"
+	"github.com/andrei-lukyanchyk/gcorelabscdn-go/gcore"
 )
 
 type Service struct {
