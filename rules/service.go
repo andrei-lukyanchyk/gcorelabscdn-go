@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/G-Core/gcorelabscdn-go/gcore"
+	"github.com/andrei-lukyanchyk/gcorelabscdn-go/gcore"
 )
 
 var _ RulesService = (*Service)(nil)

@@ -3,7 +3,7 @@ package provider
 import (
 	"time"
 
-	"github.com/G-Core/gcorelabscdn-go/gcore"
+	"github.com/andrei-lukyanchyk/gcorelabscdn-go/gcore"
 )
 
 type ClientOption func(*Client)
